@@ -1,0 +1,200 @@
+
+	//			***** CHEKING AND FLLING AROUND 4 SIZED SHIP HORIZONTALLY *****  (START)
+	/*
+		if (map[letter][numb ] == 3)
+		{
+			for (int i = 0; i < size; i++)
+			{
+				a = i;
+				if (map[letter][numb + i] == 3)
+				{
+					check = 1;
+				}
+
+				else
+				{
+					for (int j = 1; j <= size - i; j++)
+					{
+						if (map[letter][numb - j] == 3)
+						{
+							check = 1;
+						}
+						else
+						{
+							check = 0;
+							break;
+						}
+					}
+
+				}
+				if (!check)
+				{
+
+					break;
+				}
+
+			}
+
+		}
+		if (check)
+		{
+			if (map[letter][numb] == 3)
+			{
+				for (int i = 0; i < size + a; i++)
+				{
+					if (map[letter][numb - a + i] == 3)
+					{
+						map[letter][numb - a + i] = 4;
+
+					}
+				}
+			}
+		}*/
+		//			***** CHEKING AND FLLING AROUND 4 SIZED SHIP HORIZONTALLY *****  (END)
+
+
+		//			***** CHEKING AND FLLING AROUND 4 SIZED SHIP VERTICALLY *****  (START)
+
+	/*if (map[letter][numb] == 3)
+	{
+		for (int i = 0; i < size; i++)
+		{
+
+			if (map[letter + i][numb] == 3)
+			{
+				count++;
+				check = 1;
+			}
+			else
+			{
+				for (int j = 1; j <= size - i; j++)
+				{
+					if (map[letter - j][numb] == 3)
+					{
+						count++;
+						check = 1;
+					}
+					else
+					{
+						check = 0;
+						break;
+					}
+
+				}
+
+			}
+			if (!check)
+			{
+
+				break;
+			}
+
+		}
+*/
+	}
+	if (!check)//			***** CHEKING AND FLLING AROUND 3 SIZED SHIP VERTICALLY *****  (START)
+	{
+		size = 3;
+		if (map[letter][numb] == 3)
+		{
+			for (int i = 0; i < size; i++)
+			{
+
+				if (map[letter + i][numb] == 3)
+				{
+					count++;
+					check = 1;
+				}
+				else
+				{
+					for (int j = 1; j <= size - i; j++)
+					{
+						if (map[letter - j][numb] == 3)
+						{
+							count++;
+							check = 1;
+						}
+						else
+						{
+							check = 0;
+							break;
+						}
+
+					}
+
+				}
+				if (!check)
+				{
+
+					break;
+				}
+
+			}
+
+		}
+
+
+	}
+	else if (!check)//			***** CHEKING AND FLLING AROUND 2 SIZED SHIP VERTICALLY *****  (START)
+	{
+		size = 3;
+		if (map[letter][numb] == 3)
+		{
+			for (int i = 0; i < size; i++)
+			{
+
+				if (map[letter + i][numb] == 3)
+				{
+					count++;
+					check = 1;
+				}
+				else
+				{
+					for (int j = 1; j <= size - i; j++)
+					{
+						if (map[letter - j][numb] == 3)
+						{
+							count++;
+							check = 1;
+						}
+						else
+						{
+							check = 0;
+							break;
+						}
+
+					}
+
+				}
+				if (!check)
+				{
+
+					break;
+				}
+
+			}
+
+		}
+
+
+	}
+
+	if (check)
+	{
+		for (int i = 0; i < size + 1; i++)
+		{
+			if (map[letter + i][numb] != 3)
+			{
+
+
+				for (int j = 1; j <= size; j++)
+				{
+					map[letter + i - j][numb] = 4;
+				}
+				break;
+			}
+		}
+	}
+
+	//			***** CHEKING AND FLLING AROUND 4 SIZED SHIP VERTICALLY *****  (END)
+

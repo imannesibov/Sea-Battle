@@ -1,0 +1,23 @@
+/*		all ships
+	int ship1_s4=0;//'1' is the number of ship 's4' is size of ship
+	int ship1_s3=0, ship2_s3=0;
+	int ship1_s2 = 0, ship2_s2 = 0, ship3_s2 = 0;
+	int ship1_s1 = 0, ship2_s1 = 0, ship3_s1 = 0, ship4_s1 = 0;
+*/
+
+create loading screen func
+create rank
+
+
+numb__|_____ task_______________|ascii val|color
+______|_________________________|_________|_______
+0     |field				    |177      |light blue
+1	  |ship					    |219      |green
+2	  |empty field			    |176      |blue
+3	  |detected ship			|XX       |red
+4     |destroyed ship			|219      |orange
+5     |around of destroyed ship |XX       |red
+6     |around of  ship			|#        |blue        
+bullet|						    |         |blue+orange
+--------------------------------------------------
+

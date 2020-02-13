@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,26): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,26): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,30): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,30): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,34): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(41,34): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,26): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,26): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,30): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(42,30): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(43,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(43,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(43,26): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(43,26): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(44,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\seabat.h(44,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\SEA BATTLE (LAST EDITION-12.09.19)\Source.cpp(5,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\Debug\SEA BATTLE (LAST EDITION-12.09.19).exe not found or not built by the last incremental link; performing full link
+  SEA BATTLE (LAST EDITION-12.09.19).vcxproj -> C:\Users\lenovo 330\Desktop\SEA BATTLE (LAST EDITION-12.09.19)\Debug\SEA BATTLE (LAST EDITION-12.09.19).exe
